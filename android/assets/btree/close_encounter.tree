@@ -1,0 +1,15 @@
+import seekOpponent:"com.omega.amazehing.game.ai.btree.task.SeekOpponentTask"
+import pursuit:"com.omega.amazehing.game.ai.btree.task.PursuitTask"
+import attack:"com.omega.amazehing.game.ai.btree.task.AttackTask"
+import wander:"com.omega.amazehing.game.ai.btree.task.WanderTask"
+import idle:"com.omega.amazehing.game.ai.btree.task.IdleTask"
+
+root
+	selector
+		sequence
+			seekOpponent
+			attack
+			pursuit
+		selector
+			wander
+			idle

@@ -1,0 +1,2 @@
+java -classpath D:\windows\Downloads\libgdx-nightly-latest\gdx.jar;D:\windows\Downloads\libgdx-nightly-latest\extensions\gdx-tools\gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker "D:\common\git\amazehing\amazehing\core\external\skin" "D:\common\git\amazehing\amazehing\android\assets\skin" default
+pause

@@ -1,0 +1,48 @@
+
+level.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+floor/concrete
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+floor/grass
+  rotate: false
+  xy: 0, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+floor/grass_1
+  rotate: false
+  xy: 65, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+player/player_stand
+  rotate: false
+  xy: 130, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+unknow
+  rotate: false
+  xy: 195, 33
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+wall/stone
+  rotate: false
+  xy: 260, 65
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

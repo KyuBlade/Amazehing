@@ -1,0 +1,432 @@
+
+default.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgrounds/black-blue
+  rotate: false
+  xy: 0, 17
+  size: 32, 32
+  split: 8, 8, 8, 8
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+backgrounds/black_alpha
+  rotate: false
+  xy: 361, 39
+  size: 10, 10
+  split: 3, 3, 3, 3
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+backgrounds/bordered_grey
+  rotate: false
+  xy: 953, 32
+  size: 32, 32
+  split: 6, 6, 6, 6
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+backgrounds/catcher/activated
+  rotate: false
+  xy: 1017, 121
+  size: 7, 7
+  split: 2, 2, 2, 2
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+backgrounds/catcher/desactivated
+  rotate: false
+  xy: 1017, 114
+  size: 7, 7
+  split: 2, 2, 2, 2
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+backgrounds/catcher/over
+  rotate: false
+  xy: 1017, 107
+  size: 7, 7
+  split: 2, 2, 2, 2
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+backgrounds/grey
+  rotate: false
+  xy: 0, 0
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+backgrounds/slot/armor
+  rotate: false
+  xy: 0, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/empty
+  rotate: false
+  xy: 790, 61
+  size: 67, 67
+  split: 11, 9, 10, 9
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+backgrounds/slot/feet
+  rotate: false
+  xy: 79, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/glove
+  rotate: false
+  xy: 158, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/head
+  rotate: false
+  xy: 237, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/legs
+  rotate: false
+  xy: 316, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/mantle
+  rotate: false
+  xy: 395, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/necklace
+  rotate: false
+  xy: 474, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/ring
+  rotate: false
+  xy: 553, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/shield
+  rotate: false
+  xy: 632, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+backgrounds/slot/weapon
+  rotate: false
+  xy: 711, 49
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+buttons/black-blue
+  rotate: false
+  xy: 921, 32
+  size: 32, 32
+  split: 1, 19, 2, 4
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/black-green
+  rotate: false
+  xy: 921, 0
+  size: 32, 32
+  split: 1, 19, 2, 4
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/black-grey
+  rotate: false
+  xy: 985, 96
+  size: 32, 32
+  split: 1, 19, 2, 4
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/black-red
+  rotate: false
+  xy: 32, 17
+  size: 32, 32
+  split: 1, 19, 2, 4
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/button_down
+  rotate: false
+  xy: 96, 31
+  size: 19, 18
+  split: 8, 9, 8, 8
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+buttons/button_menu_down
+  rotate: false
+  xy: 153, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+buttons/button_menu_over
+  rotate: false
+  xy: 169, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+backgrounds/light_grey
+  rotate: false
+  xy: 169, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+buttons/button_menu_up
+  rotate: false
+  xy: 185, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+buttons/button_over
+  rotate: false
+  xy: 115, 31
+  size: 19, 18
+  split: 8, 9, 8, 8
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+buttons/button_up
+  rotate: false
+  xy: 134, 31
+  size: 19, 18
+  split: 8, 9, 8, 8
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+buttons/close_down
+  rotate: false
+  xy: 953, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/close_over
+  rotate: false
+  xy: 985, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/close_up
+  rotate: false
+  xy: 64, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+buttons/radio_checked
+  rotate: false
+  xy: 329, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+buttons/radio_unchecked
+  rotate: false
+  xy: 345, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+buttons/refresh_down
+  rotate: false
+  xy: 857, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+buttons/refresh_over
+  rotate: false
+  xy: 857, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+buttons/refresh_up
+  rotate: false
+  xy: 921, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+checkboxes/checked
+  rotate: false
+  xy: 96, 18
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+checkboxes/unchecked
+  rotate: false
+  xy: 20, 4
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+miscs/arrow
+  rotate: true
+  xy: 808, 55
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+progress/progress_bg
+  rotate: false
+  xy: 265, 33
+  size: 16, 16
+  split: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progress/progress_inner
+  rotate: false
+  xy: 985, 32
+  size: 32, 32
+  split: 5, 5, 5, 5
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+progress/progress_knob_blue
+  rotate: false
+  xy: 281, 33
+  size: 16, 16
+  split: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progress/progress_knob_red
+  rotate: false
+  xy: 297, 33
+  size: 16, 16
+  split: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progress/progress_knob_yellow
+  rotate: false
+  xy: 313, 33
+  size: 16, 16
+  split: 3, 3, 3, 3
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+progress/progress_outer
+  rotate: false
+  xy: 985, 0
+  size: 32, 32
+  split: 5, 5, 5, 5
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+scrolls/hScroll
+  rotate: false
+  xy: 201, 33
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+scrolls/vScroll
+  rotate: false
+  xy: 201, 33
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+scrolls/hScroll_knob
+  rotate: false
+  xy: 217, 33
+  size: 16, 16
+  split: 4, 4, 4, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+scrolls/vScroll_knob
+  rotate: false
+  xy: 217, 33
+  size: 16, 16
+  split: 4, 4, 4, 4
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sliders/knob
+  rotate: true
+  xy: 0, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+textfields/background
+  rotate: false
+  xy: 109, 23
+  size: 8, 8
+  split: 1, 1, 1, 1
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+textfields/background_focus
+  rotate: false
+  xy: 33, 9
+  size: 8, 8
+  split: 3, 3, 3, 3
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+textfields/blue_cursor
+  rotate: true
+  xy: 790, 52
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+textfields/selection
+  rotate: false
+  xy: 1017, 102
+  size: 5, 5
+  split: 1, 1, 1, 1
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+tree/minus
+  rotate: false
+  xy: 233, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tree/plus
+  rotate: false
+  xy: 249, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

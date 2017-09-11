@@ -1,0 +1,332 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont:{
+		default:{
+			file:fonts/ArialBlack.fnt
+		},
+		arial-black:{
+			file:fonts/ArialBlack.fnt
+		}
+		
+	},
+	com.badlogic.gdx.graphics.Color:{
+		green:{
+			a:1,
+			b:0,
+			g:1,
+			r:0
+		},
+		white:{
+			a:1,
+			b:1,
+			g:1,
+			r:1
+		},
+		red:{
+			a:1,
+			b:0,
+			g:0,
+			r:1
+		},
+		orange:{
+			a:1,
+			b:0,
+			g:0.65,
+			r:1
+		},
+		black:{
+			a:1,
+			b:0,
+			g:0,
+			r:0
+		}
+		
+	},
+	com.gdx.extension.ui.panel.Panel$PanelStyle:{
+		default:{
+			background:backgrounds/bordered_grey
+		},
+		black_alpha:{
+			background:backgrounds/black_alpha
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle:{
+		refresh:{
+			down:buttons/refresh_down,
+			up:buttons/refresh_up,
+			over:buttons/refresh_over
+		},
+		close:{
+			down:buttons/close_down,
+			up:buttons/close_up,
+			over:buttons/close_over
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle:{
+		default:{
+			down:buttons/button_menu_down,
+			up:buttons/button_menu_up,
+			over:buttons/button_menu_over,
+			font:default,
+			fontColor:white
+		},
+		blank:{
+			font:default,
+			fontColor:white
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle:{
+		default:{
+			imageUp:buttons/radio_unchecked,
+			imageChecked:buttons/radio_checked,
+			imageOver:buttons/radio_checked,
+			font:default,
+			fontColor:white
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle:{
+		default:{
+			font:default,
+			fontColor:white
+		},
+		inputCatcher:{
+			font:default,
+			fontColor:orange
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle:{
+		default:{
+			checkboxOn:checkboxes/checked,
+			checkboxOff:checkboxes/unchecked,
+			font:default,
+			fontColor:white
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle:{
+		default:{
+			background:textfields/background,
+			focusedBackground:textfields/background_focus,
+			cursor:textfields/blue_cursor,
+			selection:textfields/selection,
+			font:default,
+			fontColor:white
+		},
+		blank:{
+			cursor:textfields/blue_cursor,
+			selection:textfields/selection,
+			font:default,
+			fontColor:white
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle:{
+		default:{
+			background:buttons/button_down,
+			titleFont:default,
+			titleFontColor:white
+		}
+		
+	},
+	com.omega.amazehing.ui.Window$WindowStyle:{
+		default:{
+			background:buttons/button_down,
+			titleFont:default,
+			titleFontColor:white, 
+			closeButtonStyle:close
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle:{
+		default:{
+			background:backgrounds/grey,
+			corner:textfields/selection,
+			hScroll:scrolls/hScroll,
+			hScrollKnob:scrolls/hScroll_knob,
+			vScroll:scrolls/vScroll,
+			vScrollKnob:scrolls/vScroll_knob
+		}
+		
+	},
+	com.gdx.extension.ui.ProgressBar$ProgressBarStyle:{
+		default:{
+			background:progress/progress_outer,
+			progressBackground:progress/progress_inner
+		},
+		health:{
+			background:progress/progress_bg,
+			progressBackground:progress/progress_knob_red
+		},
+		stamina:{
+			background:progress/progress_bg,
+			progressBackground:progress/progress_knob_yellow
+		},
+		mana:{
+			background:progress/progress_bg,
+			progressBackground:progress/progress_knob_blue
+		}
+		
+	},
+	com.gdx.extension.ui.list.ListRow$ListRowStyle:{
+		default:{
+			background:textfields/background,
+			checked:textfields/selection,
+			over:textfields/background_focus
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle:{
+		life:{
+			background:progress/progress_bg,
+			knobBefore:progress/progress_knob_red
+		},
+		stamina:{
+			background:progress/progress_bg,
+			knobBefore:progress/progress_knob_yellow
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle:{
+		default:{
+			font:default,
+			fontColor:white,
+			background:textfields/background,
+			scrollStyle:default,
+			listStyle:{
+				font:default,
+				selection:textfields/selection
+			}
+			
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle:{
+		default-horizontal:{
+			background:backgrounds/grey,
+			knob:sliders/knob
+		}
+		
+	},
+	com.gdx.extension.ui.tab.Tab$TabStyle:{
+		default:{
+			down:buttons/black-green,
+			up:buttons/black-blue,
+			over:buttons/black-green,
+			checked:buttons/black-red,
+			
+		}
+		
+	},
+	com.gdx.extension.ui.tab.TabPane$TabPaneStyle:{
+		default:{
+			background:backgrounds/black_alpha
+		}
+		
+	},
+	com.gdx.extension.ui.tab.TabContainer$TabContainerStyle:{
+		default:{
+			background:backgrounds/black-blue
+		}
+		
+	},
+	com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle:{
+		default:{
+			minus:tree/minus,
+			plus:tree/plus,
+			selection:textfields/selection,
+			over:textfields/selection
+		}
+		
+	},
+	com.gdx.extension.ui.Console$ConsoleStyle:{
+		default:{
+			consoleBackground:backgrounds/bordered_grey,
+			entryStyle:default,
+			textfieldStyle:blank
+		}
+		
+	},
+	com.gdx.extension.ui.input.InputCatcher$InputCatcherStyle:{
+		default:{
+			desactivatedBackground:backgrounds/catcher/desactivated,
+			activatedBackground:backgrounds/catcher/activated,
+			overBackground:backgrounds/catcher/over,
+			desactivatedLabelStyle:default,
+			activatedLabelStyle:inputCatcher
+		}
+		
+	},
+	com.gdx.extension.ui.input.ControlBindList$ControlBindListStyle:{
+		default:{
+			cellBackground:backgrounds/black_alpha,
+			nameLabelStyle:default,
+			inputCatcherStyle:default
+		}
+		
+	},
+	com.omega.amazehing.ui.inventory.InventorySlot$InventorySlotStyle:{
+		default:{
+			background:backgrounds/slot/empty
+		}
+		
+	},
+	com.omega.amazehing.ui.character.CharacterSlot$CharacterSlotStyle:{
+		default:{
+			background:backgrounds/slot/empty
+		},
+		head:{
+			background:backgrounds/slot/head
+		},
+		necklace:{
+			background:backgrounds/slot/necklace
+		},
+		armor:{
+			background:backgrounds/slot/armor
+		},
+		ring:{
+			background:backgrounds/slot/ring
+		},
+		weapon:{
+			background:backgrounds/slot/weapon
+		},
+		shield:{
+			background:backgrounds/slot/shield
+		},
+		legs:{
+			background:backgrounds/slot/legs
+		},
+		feet:{
+			background:backgrounds/slot/feet
+		},
+		mantle:{
+			background:backgrounds/slot/mantle
+		},
+		glove:{
+			background:backgrounds/slot/glove
+		}
+		
+	},
+	com.omega.amazehing.ui.hotbar.HotbarSlot$HotbarSlotStyle:{
+		default:{
+			background:backgrounds/slot/empty
+		}
+		
+	},
+	com.omega.amazehing.ui.hotbar.Hotbar$HotbarStyle:{
+		default:{
+			background:backgrounds/bordered_grey,
+			slotStyle:default
+		}
+		
+	},
+	com.omega.amazehing.ui.skill.SkillSlot$SkillSlotStyle:{
+		default:{
+			background:backgrounds/slot/empty
+		}
+		
+	}
+}

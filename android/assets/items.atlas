@@ -1,0 +1,188 @@
+
+items.png
+size: 345,286
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+10
+  rotate: false
+  xy: 261, 224
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 0, 150
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+book
+  rotate: false
+  xy: 191, 100
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+coins
+  rotate: false
+  xy: 297, 59
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+consumables/potions/haste_potion
+  rotate: true
+  xy: 130, 61
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+consumables/potions/life_potion
+  rotate: true
+  xy: 67, 50
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+consumables/potions/mana_potion
+  rotate: true
+  xy: 65, 11
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+consumables/potions/stamina_potion
+  rotate: true
+  xy: 130, 22
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 299, 22
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+equipments/armors/advanced_armor
+  rotate: false
+  xy: 67, 89
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+equipments/armors/basic_armor
+  rotate: false
+  xy: 192, 161
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+equipments/armors/fiber_armor
+  rotate: true
+  xy: 67, 152
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+equipments/armors/iron_armor
+  rotate: false
+  xy: 129, 222
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+equipments/armors/leather_armor
+  rotate: false
+  xy: 130, 100
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+equipments/armors/silver_armor
+  rotate: false
+  xy: 0, 85
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+equipments/daggers/basic_dagger
+  rotate: false
+  xy: 253, 163
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+equipments/rods/basic_rod
+  rotate: false
+  xy: 129, 159
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+equipments/swords/advanced_sword
+  rotate: false
+  xy: 196, 222
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+equipments/swords/basic_sword
+  rotate: false
+  xy: 193, 45
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+equipments/swords/shapen_sword
+  rotate: false
+  xy: 289, 110
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+equipments/swords/silver_sword
+  rotate: false
+  xy: 0, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gold_cup
+  rotate: true
+  xy: 193, 12
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+gold_ingots
+  rotate: true
+  xy: 240, 106
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+resources/matters/ether
+  rotate: false
+  xy: 0, 217
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+treasure_chest
+  rotate: false
+  xy: 248, 51
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+unknow
+  rotate: false
+  xy: 248, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

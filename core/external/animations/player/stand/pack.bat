@@ -1,0 +1,2 @@
+java -classpath D:\windows\Downloads\libgdx-nightly-latest\gdx.jar;D:\windows\Downloads\libgdx-nightly-latest\extensions\gdx-tools\gdx-tools.jar com.badlogic.gdx.tools.texturepacker.TexturePacker "D:\common\git\amazehing\amazehing\core\external\animations\player\stand" "D:\common\git\amazehing\amazehing\android\assets\animations\player" stand
+pause

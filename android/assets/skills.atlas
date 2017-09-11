@@ -1,0 +1,27 @@
+
+skills.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow
+  rotate: false
+  xy: 0, 51
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+punch
+  rotate: false
+  xy: 65, 51
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+unknow
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
