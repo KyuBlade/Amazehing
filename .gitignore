@@ -60,4 +60,3 @@ nb-configuration.xml
 build/
 /bin
 /rebel.xml
-gradle/
